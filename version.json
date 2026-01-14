@@ -1,5 +1,5 @@
 {
-  "versionCode": 1.0.3,
-  "url": "https://github.com/YOUR_USERNAME/YOUR_REPO/releases/download/v1.1.0/app-release.apk",
-  "changelog": "New features added!"
+  "versionCode": 2,
+  "versionName": "1.0.3",
+  "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/app-release.apk"
 }

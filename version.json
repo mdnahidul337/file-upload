@@ -1,5 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.3",
-  "url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/app-release.apk"
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "whatsNew": "- Added Dark Mode\n- Fixed login crash\n- Improved speed",
+  "url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/app-release.apk"
 }

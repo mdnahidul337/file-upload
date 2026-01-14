@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
-  "whatsNew": "- Added Dark Mode\n- Fixed login crash\n- Improved speed",
-  "url": "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/app-release.apk"
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "whatsNew": "- Added new features\n- Fixed bugs",
+  "url": "DIRECT_LINK_TO_YOUR_APK_FILE"
 }
